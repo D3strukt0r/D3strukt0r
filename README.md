@@ -48,6 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Crate opening and casual gameplay](https://www.youtube.com/watch?v=8mbrVw95gaY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
