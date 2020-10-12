@@ -54,11 +54,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Jekyll!](https://www.manuele-vaccari.ch/jekyll/update/2020/10/11/welcome-to-jekyll/)
-- [Introduction](https://www.manuele-vaccari.ch/2020/04/04/introduction/)
-- [Options](https://www.manuele-vaccari.ch/2020/04/03/options/)
-- [Example content](https://www.manuele-vaccari.ch/2020/04/02/example-content/)
-- [What's Jekyll?](https://www.manuele-vaccari.ch/2020/03/01/whats-jekyll/)
+- [First post](https://www.manuele-vaccari.ch/2020/10/12/first-post/)
+- [Example content](https://www.manuele-vaccari.ch/2020/10/11/example-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
