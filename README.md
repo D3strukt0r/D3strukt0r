@@ -65,8 +65,8 @@
 ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/D3strukt0r/test/pull/1) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
-2. 💪 Opened PR [#1](https://github.com/D3strukt0r/test/pull/1) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
+1. 💪 Opened PR [#3](https://github.com/FHNW-Dream-Team/stocks-tracker/pull/3) in [FHNW-Dream-Team/stocks-tracker](https://github.com/FHNW-Dream-Team/stocks-tracker)
+2. 🎉 Merged PR [#1](https://github.com/D3strukt0r/test/pull/1) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
 <!--END_SECTION:activity-->
 
 ⚡ GitHub Stats
