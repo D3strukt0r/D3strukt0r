@@ -65,8 +65,8 @@
 ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/FHNW-Dream-Team/stocks-tracker/pull/3) in [FHNW-Dream-Team/stocks-tracker](https://github.com/FHNW-Dream-Team/stocks-tracker)
-2. 💪 Opened PR [#3](https://github.com/FHNW-Dream-Team/stocks-tracker/pull/3) in [FHNW-Dream-Team/stocks-tracker](https://github.com/FHNW-Dream-Team/stocks-tracker)
+1. 🗣 Commented on [#3](https://github.com/D3strukt0r/docker-spigot/issues/3) in [D3strukt0r/docker-spigot](https://github.com/D3strukt0r/docker-spigot)
+2. 🎉 Merged PR [#3](https://github.com/FHNW-Dream-Team/stocks-tracker/pull/3) in [FHNW-Dream-Team/stocks-tracker](https://github.com/FHNW-Dream-Team/stocks-tracker)
 <!--END_SECTION:activity-->
 
 ⚡ GitHub Stats
