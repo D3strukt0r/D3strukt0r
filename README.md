@@ -65,7 +65,7 @@
 ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/D3strukt0r/docker-spigot/issues/3) in [D3strukt0r/docker-spigot](https://github.com/D3strukt0r/docker-spigot)
+1. 💪 Opened PR [#1](https://github.com/iwf-web/vagrant-scripts/pull/1) in [iwf-web/vagrant-scripts](https://github.com/iwf-web/vagrant-scripts)
 2. 🗣 Commented on [#3](https://github.com/D3strukt0r/docker-spigot/issues/3) in [D3strukt0r/docker-spigot](https://github.com/D3strukt0r/docker-spigot)
 <!--END_SECTION:activity-->
 
