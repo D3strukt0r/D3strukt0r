@@ -65,8 +65,8 @@
 ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/iwf-web/vagrant-scripts/pull/1) in [iwf-web/vagrant-scripts](https://github.com/iwf-web/vagrant-scripts)
-2. 🗣 Commented on [#3](https://github.com/D3strukt0r/docker-spigot/issues/3) in [D3strukt0r/docker-spigot](https://github.com/D3strukt0r/docker-spigot)
+1. 🎉 Merged PR [#2](https://github.com/D3strukt0r/test/pull/2) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
+2. 💪 Opened PR [#2](https://github.com/D3strukt0r/test/pull/2) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
 <!--END_SECTION:activity-->
 
 ⚡ GitHub Stats
