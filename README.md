@@ -65,8 +65,8 @@
 ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/D3strukt0r/test/pull/2) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
-2. 💪 Opened PR [#2](https://github.com/D3strukt0r/test/pull/2) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
+1. ❗️ Opened issue [#860](https://github.com/nystudio107/craft-seomatic/issues/860) in [nystudio107/craft-seomatic](https://github.com/nystudio107/craft-seomatic)
+2. 🎉 Merged PR [#2](https://github.com/D3strukt0r/test/pull/2) in [D3strukt0r/test](https://github.com/D3strukt0r/test)
 <!--END_SECTION:activity-->
 
 ⚡ GitHub Stats
