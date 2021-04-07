@@ -65,8 +65,8 @@
 ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#860](https://github.com/nystudio107/craft-seomatic/issues/860) in [nystudio107/craft-seomatic](https://github.com/nystudio107/craft-seomatic)
-2. ❗️ Opened issue [#860](https://github.com/nystudio107/craft-seomatic/issues/860) in [nystudio107/craft-seomatic](https://github.com/nystudio107/craft-seomatic)
+1. 🗣 Commented on [#3](https://github.com/D3strukt0r/docker-spigot/issues/3) in [D3strukt0r/docker-spigot](https://github.com/D3strukt0r/docker-spigot)
+2. ❗️ Closed issue [#3](https://github.com/D3strukt0r/docker-spigot/issues/3) in [D3strukt0r/docker-spigot](https://github.com/D3strukt0r/docker-spigot)
 <!--END_SECTION:activity-->
 
 ⚡ GitHub Stats
