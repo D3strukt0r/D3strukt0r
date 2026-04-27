@@ -1,0 +1,43 @@
+name: Update README activity
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
+
+      - name: Generate activity readme
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          COMMIT_MSG: "docs(readme): update profile"
+          EMPTY_COMMIT_MSG: "chore: keep update-readme workflow active"
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Squash into previous update commit if applicable
+        run: |
+          MSG="docs(readme): update profile"
+          if [ "$(git log -1 --format=%s)" != "$MSG" ]; then exit 0; fi
+          if ! git rev-parse --verify HEAD~1 >/dev/null 2>&1; then exit 0; fi
+          if [ "$(git log -1 --skip=1 --format=%s)" != "$MSG" ]; then exit 0; fi
+          git reset --soft HEAD~2
+          git commit -m "$MSG"
+          git push --force-with-lease

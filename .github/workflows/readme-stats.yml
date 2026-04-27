@@ -1,0 +1,55 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
+
+      # https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-actions
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&theme=dark&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit cards
+        run: |
+          MSG="docs(readme): update profile"
+          git add profile/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "$MSG"
+          if git rev-parse --verify HEAD~1 >/dev/null 2>&1 && [ "$(git log -1 --skip=1 --format=%s)" = "$MSG" ]; then
+            git reset --soft HEAD~2
+            git commit -m "$MSG"
+            git push --force-with-lease
+          else
+            git push
+          fi
