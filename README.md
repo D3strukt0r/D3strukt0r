@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2405](https://github.com/orbstack/orbstack/issues/2405#issuecomment-4279058129) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-2. ℹ️ Labeled issue [#2405](https://github.com/orbstack/orbstack/issues/2405) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-3. ❗ Opened issue [#2405](https://github.com/orbstack/orbstack/issues/2405) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-4. 🗣 Commented on [#820](https://github.com/doki-theme/doki-theme-jetbrains/issues/820#issuecomment-4268445389) in [doki-theme/doki-theme-jetbrains](https://github.com/doki-theme/doki-theme-jetbrains)
-5. 🗣 Commented on [#66](https://github.com/ilovepdf/ilovepdf-php/pull/66#issuecomment-4250147677) in [ilovepdf/ilovepdf-php](https://github.com/ilovepdf/ilovepdf-php)
+1. 🚀 Published release [v1.0.1](https://github.com/D3strukt0r/wundexpertinplus/releases/tag/1.0.1) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
+2. 🚀 Published release [v1.0.0](https://github.com/D3strukt0r/wundexpertinplus/releases/tag/1.0.0) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
+3. ℹ️ Labeled PR [#17](https://github.com/D3strukt0r/wundexpertinplus/pull/17) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
+4. 💪 Opened PR [#17](https://github.com/D3strukt0r/wundexpertinplus/pull/17) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
+5. ℹ️ Labeled PR [#16](https://github.com/D3strukt0r/wundexpertinplus/pull/16) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
 <!--END_SECTION:activity-->
 
 ---
