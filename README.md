@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/D3strukt0r/wundexpertinplus/releases/tag/1.0.1) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-2. 🚀 Published release [v1.0.0](https://github.com/D3strukt0r/wundexpertinplus/releases/tag/1.0.0) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-3. ℹ️ Labeled PR [#17](https://github.com/D3strukt0r/wundexpertinplus/pull/17) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-4. 💪 Opened PR [#17](https://github.com/D3strukt0r/wundexpertinplus/pull/17) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-5. ℹ️ Labeled PR [#16](https://github.com/D3strukt0r/wundexpertinplus/pull/16) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
+1. 🗣 Commented on [#60](https://github.com/Team-MaRo/d3strukt0r-portfolio/pull/60#issuecomment-4699713948) in [Team-MaRo/d3strukt0r-portfolio](https://github.com/Team-MaRo/d3strukt0r-portfolio)
+2. 🗣 Commented on [#59](https://github.com/Team-MaRo/d3strukt0r-portfolio/pull/59#issuecomment-4699713773) in [Team-MaRo/d3strukt0r-portfolio](https://github.com/Team-MaRo/d3strukt0r-portfolio)
+3. 🗣 Commented on [#211](https://github.com/Team-MaRo/weleda-webcenter-text-export/pull/211#issuecomment-4699713644) in [Team-MaRo/weleda-webcenter-text-export](https://github.com/Team-MaRo/weleda-webcenter-text-export)
+4. 🗣 Commented on [#212](https://github.com/Team-MaRo/weleda-webcenter-text-export/pull/212#issuecomment-4699713427) in [Team-MaRo/weleda-webcenter-text-export](https://github.com/Team-MaRo/weleda-webcenter-text-export)
+5. ℹ️ Labeled PR [#210](https://github.com/Team-MaRo/weleda-webcenter-text-export/pull/210) in [Team-MaRo/weleda-webcenter-text-export](https://github.com/Team-MaRo/weleda-webcenter-text-export)
 <!--END_SECTION:activity-->
 
 ---
