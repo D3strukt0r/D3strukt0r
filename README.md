@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/D3strukt0r/wundexpertinplus/releases/tag/1.0.1) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-2. 🚀 Published release [v1.0.0](https://github.com/D3strukt0r/wundexpertinplus/releases/tag/1.0.0) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-3. ℹ️ Labeled PR [#17](https://github.com/D3strukt0r/wundexpertinplus/pull/17) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-4. 💪 Opened PR [#17](https://github.com/D3strukt0r/wundexpertinplus/pull/17) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
-5. ℹ️ Labeled PR [#16](https://github.com/D3strukt0r/wundexpertinplus/pull/16) in [D3strukt0r/wundexpertinplus](https://github.com/D3strukt0r/wundexpertinplus)
+1. ℹ️ Labeled PR [#3](https://github.com/Team-MaRo/cc-statusline/pull/3) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
+2. 💪 Opened PR [#3](https://github.com/Team-MaRo/cc-statusline/pull/3) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
+3. ℹ️ Labeled PR [#2](https://github.com/Team-MaRo/cc-statusline/pull/2) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
+4. 💪 Opened PR [#2](https://github.com/Team-MaRo/cc-statusline/pull/2) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
+5. ❌ Closed PR [#1](https://github.com/Team-MaRo/cc-statusline/pull/1) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
 <!--END_SECTION:activity-->
 
 ---
