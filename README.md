@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3](https://github.com/Team-MaRo/cc-statusline/pull/3) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-2. 💪 Opened PR [#3](https://github.com/Team-MaRo/cc-statusline/pull/3) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-3. ℹ️ Labeled PR [#2](https://github.com/Team-MaRo/cc-statusline/pull/2) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-4. 💪 Opened PR [#2](https://github.com/Team-MaRo/cc-statusline/pull/2) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-5. ❌ Closed PR [#1](https://github.com/Team-MaRo/cc-statusline/pull/1) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
+1. 🎉 Merged PR [#9](https://github.com/Team-MaRo/votifier-client-php/pull/9) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
+2. 💪 Opened PR [#9](https://github.com/Team-MaRo/votifier-client-php/pull/9) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
+3. ❌ Closed PR [#8](https://github.com/Team-MaRo/votifier-client-php/pull/8) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
+4. 🎉 Merged PR [#7](https://github.com/Team-MaRo/votifier-client-php/pull/7) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
+5. 💪 Opened PR [#7](https://github.com/Team-MaRo/votifier-client-php/pull/7) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
 <!--END_SECTION:activity-->
 
 ---
