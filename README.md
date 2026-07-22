@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3](https://github.com/Team-MaRo/cc-statusline/pull/3) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-2. 💪 Opened PR [#3](https://github.com/Team-MaRo/cc-statusline/pull/3) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-3. ℹ️ Labeled PR [#2](https://github.com/Team-MaRo/cc-statusline/pull/2) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-4. 💪 Opened PR [#2](https://github.com/Team-MaRo/cc-statusline/pull/2) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
-5. ❌ Closed PR [#1](https://github.com/Team-MaRo/cc-statusline/pull/1) in [Team-MaRo/cc-statusline](https://github.com/Team-MaRo/cc-statusline)
+1. 🗣 Commented on [#14](https://github.com/iwf-web/craft-delete-it/pull/14#issuecomment-4903171931) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
+2. 🎉 Merged PR [#8](https://github.com/iwf-web/craft-cp-element-counter/pull/8) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
+3. 🎉 Merged PR [#12](https://github.com/iwf-web/craft-delete-it/pull/12) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
+4. 🗣 Commented on [#11](https://github.com/iwf-web/craft-cp-element-counter/pull/11#issuecomment-4901786143) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
+5. 💪 Opened PR [#7](https://github.com/Team-MaRo/votifier-client-php/pull/7) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
 <!--END_SECTION:activity-->
 
 ---
