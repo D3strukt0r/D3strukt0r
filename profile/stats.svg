@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Manuele&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 1058, Total PRs: 140, Total Issues: 56, Contributed to (last year): 46</desc>
+        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 1195, Total PRs: 141, Total Issues: 56, Contributed to (last year): 48</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.31543871845707;
+        stroke-dashoffset: 90.4867642690254;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -177,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >1.1k</text>
+      >1.2k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >140</text>
+      >141</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >46</text>
+      >48</text>
     </g>
   </g>
     </svg>
