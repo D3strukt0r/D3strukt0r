@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/iwf-web/craft-delete-it/pull/14#issuecomment-4903171931) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
-2. 🎉 Merged PR [#8](https://github.com/iwf-web/craft-cp-element-counter/pull/8) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
-3. 🎉 Merged PR [#12](https://github.com/iwf-web/craft-delete-it/pull/12) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
-4. 🗣 Commented on [#11](https://github.com/iwf-web/craft-cp-element-counter/pull/11#issuecomment-4901786143) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
-5. 💪 Opened PR [#7](https://github.com/Team-MaRo/votifier-client-php/pull/7) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
+1. 🗣 Commented on [#4666](https://github.com/project-zot/zot/issues/4666#issuecomment-6683000015) in [project-zot/zot](https://github.com/project-zot/zot)
+2. 🗣 Commented on [#1948](https://github.com/mariadb-operator/mariadb-operator/issues/1948#issuecomment-6602351729) in [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator)
+3. 🗣 Commented on [#2923](https://github.com/freelensapp/freelens/pull/2923#issuecomment-6587772325) in [freelensapp/freelens](https://github.com/freelensapp/freelens)
+4. 💪 Opened PR [#2924](https://github.com/freelensapp/freelens/pull/2924) in [freelensapp/freelens](https://github.com/freelensapp/freelens)
+5. 💪 Opened PR [#2923](https://github.com/freelensapp/freelens/pull/2923) in [freelensapp/freelens](https://github.com/freelensapp/freelens)
 <!--END_SECTION:activity-->
 
 ---
