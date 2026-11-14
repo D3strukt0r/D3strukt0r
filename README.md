@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/iwf-web/craft-delete-it/pull/14#issuecomment-4903171931) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
-2. 🎉 Merged PR [#8](https://github.com/iwf-web/craft-cp-element-counter/pull/8) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
-3. 🎉 Merged PR [#12](https://github.com/iwf-web/craft-delete-it/pull/12) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
-4. 🗣 Commented on [#11](https://github.com/iwf-web/craft-cp-element-counter/pull/11#issuecomment-4901786143) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
-5. 💪 Opened PR [#7](https://github.com/Team-MaRo/votifier-client-php/pull/7) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
+1. 🗣 Commented on [#419](https://github.com/FossifyOrg/Voice-Recorder/issues/419#issuecomment-6818763414) in [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder)
+2. 🗣 Commented on [#1369](https://github.com/MorpheApp/morphe-patches/issues/1369#issuecomment-6806169128) in [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches)
+3. 🗣 Commented on [#20](https://github.com/mikropsoft/StevenBlock/issues/20#issuecomment-6799226049) in [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock)
+4. 🗣 Commented on [#211](https://github.com/librepods-org/librepods/issues/211#issuecomment-6779192934) in [librepods-org/librepods](https://github.com/librepods-org/librepods)
+5. ❗ Opened issue [#20](https://github.com/mikropsoft/StevenBlock/issues/20) in [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock)
 <!--END_SECTION:activity-->
 
 ---
