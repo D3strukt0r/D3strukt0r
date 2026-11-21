@@ -35,11 +35,11 @@
 ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/iwf-web/craft-delete-it/pull/14#issuecomment-4903171931) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
-2. 🎉 Merged PR [#8](https://github.com/iwf-web/craft-cp-element-counter/pull/8) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
-3. 🎉 Merged PR [#12](https://github.com/iwf-web/craft-delete-it/pull/12) in [iwf-web/craft-delete-it](https://github.com/iwf-web/craft-delete-it)
-4. 🗣 Commented on [#11](https://github.com/iwf-web/craft-cp-element-counter/pull/11#issuecomment-4901786143) in [iwf-web/craft-cp-element-counter](https://github.com/iwf-web/craft-cp-element-counter)
-5. 💪 Opened PR [#7](https://github.com/Team-MaRo/votifier-client-php/pull/7) in [Team-MaRo/votifier-client-php](https://github.com/Team-MaRo/votifier-client-php)
+1. ❗ Opened issue [#59](https://github.com/zirkeldesign/privacy-captcha-for-cap/issues/59) in [zirkeldesign/privacy-captcha-for-cap](https://github.com/zirkeldesign/privacy-captcha-for-cap)
+2. ❗ Opened issue [#58](https://github.com/zirkeldesign/privacy-captcha-for-cap/issues/58) in [zirkeldesign/privacy-captcha-for-cap](https://github.com/zirkeldesign/privacy-captcha-for-cap)
+3. 🎉 Merged PR [#1283](https://github.com/stakater/Reloader/pull/1283) in [stakater/Reloader](https://github.com/stakater/Reloader)
+4. 💪 Opened PR [#1254](https://github.com/PatchMon/PatchMon/pull/1254) in [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon)
+5. 💪 Opened PR [#1831](https://github.com/element-hq/ess-helm/pull/1831) in [element-hq/ess-helm](https://github.com/element-hq/ess-helm)
 <!--END_SECTION:activity-->
 
 ---
